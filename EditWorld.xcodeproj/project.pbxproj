@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		49B3C0C120C4819C00701151 /* CustomizedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49B3C0C020C4819C00701151 /* CustomizedViewController.swift */; };
 		49B3C0C320C4BE2300701151 /* color.png in Resources */ = {isa = PBXBuildFile; fileRef = 49B3C0C220C4BE2300701151 /* color.png */; };
 		49E80B3520B3631100B3CE41 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49E80B3420B3631100B3CE41 /* AppDelegate.swift */; };
 		49E80B3720B3631100B3CE41 /* art.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = 49E80B3620B3631100B3CE41 /* art.scnassets */; };
@@ -46,7 +45,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		49B3C0C020C4819C00701151 /* CustomizedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomizedViewController.swift; sourceTree = "<group>"; };
 		49B3C0C220C4BE2300701151 /* color.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = color.png; path = EditWorld/Assets.xcassets/color.png; sourceTree = SOURCE_ROOT; };
 		49E80B3120B3631100B3CE41 /* EditWorld.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EditWorld.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		49E80B3420B3631100B3CE41 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -133,7 +131,6 @@
 				49E80B7120B376CA00B3CE41 /* textNode.swift */,
 				49E80B7520B3772700B3CE41 /* Text.swift */,
 				49E80B7920B385AC00B3CE41 /* Ultilities.swift */,
-				49B3C0C020C4819C00701151 /* CustomizedViewController.swift */,
 			);
 			path = EditWorld;
 			sourceTree = "<group>";
@@ -313,7 +310,6 @@
 				49E80B7A20B385AC00B3CE41 /* Ultilities.swift in Sources */,
 				49E80B7620B3772700B3CE41 /* Text.swift in Sources */,
 				49E80B6620B3639200B3CE41 /* DynamicGeometryNode.swift in Sources */,
-				49B3C0C120C4819C00701151 /* CustomizedViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
